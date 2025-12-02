@@ -11,7 +11,6 @@ A comprehensive ERC-20 token implementation for the Orbion Network, designed wit
 - **Website**: [https://orbionchain.com/](https://orbionchain.com/)
 - **Telegram**: [https://t.me/OrbionNetwork](https://t.me/OrbionNetwork)
 - **Twitter**: [https://x.com/OrbionNetwork](https://x.com/OrbionNetwork)
-- **GitHub**: [https://github.com/marksantiago02](https://github.com/marksantiago02)
 
 ## 📋 Table of Contents
 
@@ -82,7 +81,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/marksantiago02/Orbion-Network-smart-contract.git
+   git clone <this-repo-url>
    cd Orbion-Network-smart-contract
    ```
 
@@ -226,11 +225,6 @@ We welcome contributions! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Contact
-
-**Developer**: Mark Santiago  
-**Email**: marksantiago2909@gmail.com  
-**GitHub**: [@marksantiago02](https://github.com/marksantiago02)
 
 ---
 
